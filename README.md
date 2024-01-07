@@ -8,7 +8,7 @@ This Repository **Essential Education** is my personal template collection. Here
 
 > ⚠️ Be aware, products can change over time. I do my best to keep up with the latest changes and releases, but please understand that this won’t always be the case.
 
-I created them as free resources to be used in your specific use cases. If you're searching for detailed, in-depth tutorials on some tools or technologies, check out my Discord: [Orangefarm](https://discord.gg/nUFabsxxrW)
+I created them as free resources to be used in your specific use cases. If you're searching for detailed, in-depth tutorials on some tools or technologies, check out my Website: [Orangefarm](https://home.orangefarm.ca)
 
 ## Contribution
 
