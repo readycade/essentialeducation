@@ -4,20 +4,23 @@ Hi, there! 👋
 
 I’m Michael, a 37-year-old tech enthusiast from Canada, and I love to inspire and educate people in IT.
 
-This Repository **Essential Education** is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
+I created these free resources to be used in your specific use cases. If you're searching for detailed, in-depth tutorials on some tools or technologies, check out my Website: [Orangefarm](https://home.orangefarm.ca)
 
 > ⚠️ Be aware, products can change over time. I do my best to keep up with the latest changes and releases, but please understand that this won’t always be the case.
 
-I created them as free resources to be used in your specific use cases. If you're searching for detailed, in-depth tutorials on some tools or technologies, check out my Website: [Orangefarm](https://home.orangefarm.ca)
-
 ## Contribution
 
-If you’d like to contribute to this project, reach out to me on social media or [Discord](https://discord.gg/nUFabsxxrW), or create a pull request for the necessary changes.
+If you’d like to contribute to this project, reach out to me on social media or [Discord](https://discord.com/invite/HJuEdZsWYE), or create a pull request for the necessary changes.
+
+## Readystream version 1.0
+- [Readystream](https://github.com/dockercompose-man/readystream) - Essentially what the script does is offer you an OFFLINE and ONLINE way of playing games.
 
 ## Other Resources
-
-- [Boilerplates](https://github.com/dockercompose-man/boilerplates) - Templates for various projects like Docker, K8S, Ansible, etc
+- [Docker](https://github.com/dockercompose-man/docker) - Configuration/Installation and Docker-Compose files for various applications
+- [Ansible](https://github.com/dockercompose-man/ansible) - Configuration and Playbooks for Ansible
 - [Cheat-Sheets](https://github.com/dockercompose-man/essentialeducation) - Command Reference for various tools and technologies
+
+
 
 ## Support me
 
