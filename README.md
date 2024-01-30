@@ -8,7 +8,7 @@ I created these free resources to be used in your specific use cases. If you're 
 
 > ⚠️ Be aware, products can change over time. I do my best to keep up with the latest changes and releases, but please understand that this won’t always be the case.
 
-## Readycade Companion Applications 1.0.0 (Proprietary)
+## Readycade Companion Applications (Proprietary)
 - [Readycade Configs](https://github.com/dockercompose-man/readycade_configs) - This is what separates the boys from the men. A complete arcade setup in under 5 minutes!
 - [Readycade Media Packs](https://github.com/dockercompose-man/readycade_media) - Get your Consoles and Systems up and running in minutes with Ready Media Packs!
 
